@@ -1,0 +1,1 @@
+"""A module containing RIED environmental elements"""

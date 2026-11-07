@@ -1,0 +1,17 @@
+name: fin_growth
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pythonocc-core=7.5.1
+  - occt=7.5.1
+  - numpy=1.24.4
+  - scipy=1.13.1
+  - matplotlib=3.3.2
+  - sympy=1.14.0
+  - dill=0.4.0
+  - pytest=8.4.2
+  - pip
+  - pip:
+      - gmsh==4.13.1
+      - pymoo==0.6.1.3
